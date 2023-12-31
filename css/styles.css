@@ -1,0 +1,17 @@
+#primer-titulo {
+    color: blue;    
+}
+
+.encabezado {
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+#enunciado-inicial {
+    text-align: justify;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
